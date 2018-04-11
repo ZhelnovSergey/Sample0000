@@ -21,6 +21,7 @@ using namespace std;
 int main(int argc, char** argv) {
 
     printf("Hello GIT!");
+    printf("This is something new");
     return 0;
 }
 
